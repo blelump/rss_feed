@@ -1,2 +1,54 @@
-# rss_feed
-Personal RSS bundle
+
+### Work
+
+#### Dev
+* http://blog.ploeh.dk/rss.xml
+* http://www.yegor256.com/rss.xml
+* http://geekswithblogs.net/theArchitectsNapkin/Rss.aspx
+* http://blog.thecodewhisperer.com/atom.xml
+* https://changelog.com/feed/
+* http://multithreaded.stitchfix.com/feed.xml
+* http://feeds.feedburner.com/PiotrZielinski
+* https://www.toptal.com/developers/blog.rss
+* https://8thlight.com/blog/feed/rss.xml
+* http://insights.workshop14.io/feed.xml
+* https://blog.rebased.pl/feed.xml
+* http://culttt.com/feed/
+* http://twin.github.io/feed.xml
+* http://www.virtuouscode.com/feed/
+* http://blog.testdouble.com/index.xml
+* http://tenderlovemaking.com/atom.xml
+* http://feeds.feedburner.com/blogspot/RLXA
+* http://feeds.feedburner.com/solnic-on-blog/
+* http://chadfowler.com/atom.xml
+* https://thepugautomatic.com/atom.xml
+* https://pragdave.me/feed.xml
+* http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots.xml
+* http://www.tomdalling.com/blog/feed/
+* http://enterprisecraftsmanship.com/feed/
+* http://blog.cleancoder.com/atom.xml
+* http://www.rubypigeon.com/feed.xml
+* http://feeds.feedburner.com/arkency.xml
+* http://martinfowler.com/feed.atom
+
+#### DevOps
+* http://kartar.net/index.xml
+* http://blog.tutum.co/feed/
+* http://insights.sei.cmu.edu/devops/rss.xml
+* http://blog.matthewskelton.net/feed/
+* https://aphyr.com/posts.atom
+* https://serversforhackers.com/feed
+* http://feeds.feedburner.com/terrarum
+* http://www.roblayton.com/feeds/posts/default?alt=rss
+* https://scaleyourcode.com/rss.xml
+* https://blog.abevoelker.com/atom.xml
+* http://continuousdev.com/feed/
+
+### Books
+* https://www.amazon.com/gp/rss/new-releases/books/3508/ref=zg_bsnr_3508_rsslink
+* http://www.wrox.com/WileyCDA/feed/RSS_WROX_ALLNEW.xml
+* https://www.amazon.com/gp/rss/new-releases/books/3839/ref=zg_bsnr_3839_rsslink
+* http://www.informit.com/store/browse/books/rss
+* https://www.amazon.com/gp/rss/new-releases/books/549646/ref=zg_bsnr_549646_rsslink
+* https://www.amazon.com/gp/rss/new-releases/books/3510/ref=zg_bsnr_3510_rsslink
+* https://pragprog.com/feed/global
