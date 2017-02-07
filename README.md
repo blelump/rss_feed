@@ -20,7 +20,7 @@
 * http://tenderlovemaking.com/atom.xml
 * http://feeds.feedburner.com/blogspot/RLXA
 * http://feeds.feedburner.com/solnic-on-blog/
-* http://chadfowler.com/atom.xml
+* http://chadfowler.com/feed.xml
 * https://thepugautomatic.com/atom.xml
 * https://pragdave.me/feed.xml
 * http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots.xml
